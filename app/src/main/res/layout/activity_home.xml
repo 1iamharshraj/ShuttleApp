@@ -67,16 +67,16 @@
                 android:layout_marginBottom="16dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:srcCompat="@drawable/button"
-                tools:layout_editor_absoluteX="221dp" />
+                tools:layout_editor_absoluteX="303dp" />
 
             <ImageButton
-                android:id="@+id/imageButton4"
+                android:id="@+id/imageButton5"
                 android:layout_width="70dp"
                 android:layout_height="46dp"
                 android:layout_marginBottom="16dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:srcCompat="@drawable/button"
-                tools:layout_editor_absoluteX="318dp" />
+                tools:layout_editor_absoluteX="217dp" />
 
             <ImageButton
                 android:id="@+id/imageButton3"
