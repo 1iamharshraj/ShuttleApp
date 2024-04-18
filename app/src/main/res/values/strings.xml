@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">ShuttleApp</string>
+    <string-array name="ShuttleStops">
+        <item>GDN</item>
+        <item>Main Gate</item>
+        <item>Library</item>
+        <item>A-B block</item>
+        <item>G-H block</item>
+        <item>DC</item>
+        <item>TT</item>
+        <item>C Block</item>
+        <item>F Block</item>
+        <item>SJT</item>
+        <item>PRP</item>
+        <item>MGB</item>
+    </string-array>
 </resources>
